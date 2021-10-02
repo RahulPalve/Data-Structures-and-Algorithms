@@ -10,7 +10,7 @@
     For example, run this command inside your terminal:
 
     ```bash
-    git clone https://github.com/<your-github-username>/FRIDAY.git
+    git clone https://github.com/PCCoE-Hacktoberfest-21/Data-Structures-and-Algorithms
     ```
 
     **Replace \<your-github-username\>!**
